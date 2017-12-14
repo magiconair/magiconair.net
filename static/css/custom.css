@@ -1,0 +1,39 @@
+/* workaround for firefox to display the logo */
+.site-header .navbar-brand > img {
+	height: 100%;
+}
+
+article.main-content {
+	padding-top: 0;
+}
+
+body, h1,h2,h3,h4,h5,h6 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+h2 a:after {
+	background-color: transparent;
+}
+
+.banner.auto-size {
+	background-color: #62a8ea;
+	padding-top: 40px;
+}
+
+.avatar {
+    /* This image is 687 wide by 1024 tall, similar to your aspect ratio */
+    background-image: url('https://avatars1.githubusercontent.com/u/229005?s=460&v=4');
+
+    /* make a square container */
+    width: 48px;
+    height: 48px;
+
+    /* fill the container, preserving aspect ratio, and cropping to fit */
+    background-size: cover;
+
+    /* center the image vertically and horizontally */
+    background-position: top center;
+
+    /* round the edges to a circle with border radius 1/2 container size */
+    border-radius: 50%;
+}
