@@ -3,10 +3,14 @@ title: "Contact"
 weight: 2000
 ---
 
-To get in touch with me
-ping me on <a href="https://twitter.com/magiconair"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
-or open an issue on <a href="https://github.com/fabiolb/fabio/issues"><i class="fa fa-github" aria-hidden="true"></i> GitHub</a>.
-
-Have fun
-
 Frank Schröder
+
+<a href="mailto:info@magiconair.net"><i class="fa fa-envelope" aria-hidden="true"></i> info@magiconair.net</a>
+
+<a href="https://twitter.com/magiconair"><i class="fa fa-twitter" aria-hidden="true"></i> @magiconair</a>
+
+<a href="https://linkedin.com/in/magiconair/"><i class="fa fa-linkedin" aria-hidden="true"></i> Frank Schröder</a>.
+
+magiconair is registered with the Netherlands Chamber of Commerce. 
+
+KVK-number: 70296553

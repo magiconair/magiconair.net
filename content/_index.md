@@ -13,15 +13,13 @@ systems.
  * eBay: micro services, team management, hiring, Go, [fabio](https://github.com/fabiolb/fabio)
  * HashiCorp: [Consul](https://consul.io/) maintainer
 
-I have written some open-source tools which I'm still maintaining:
+I have written some open-source tools which I am still maintaining:
 
  * https://github.com/fabiolb/fabio : Consul aware load balancer HTTP/TCP reverse proxy
  * https://github.com/magiconair/properties : properties library for Go
  * https://github.com/magiconair/vendorfmt : tool for making `vendor.json` files more merge friendly
 
-To get in touch with me
-ping me on <a href="https://twitter.com/magiconair"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
-or on <a href="https://linkedin.com/in/magiconair/"><i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn</a>.
 
+Check the [contact](/contact/) page on how to get in touch with me.
 
 Frank
