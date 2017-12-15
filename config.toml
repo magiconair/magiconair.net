@@ -3,4 +3,5 @@ languageCode = "en-us"
 title        = "magiconair - Frank Schröder"
 
 [params]
-  fabioURL = "https://fabio.netlify.com/"
+  fabioURL        = "https://fabio.netlify.com/"
+  googleAnalytics = "UA-2812942-2"
