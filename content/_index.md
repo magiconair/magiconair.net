@@ -4,7 +4,7 @@ title: "Overview"
 
 My name is Frank Schröder and I am a distributed systems engineer. 
 
-During my professional carreer I've mostly worked on building large scale 
+During my professional carreer I have mostly worked on building large scale 
 systems.
 
  * Netscape Professional Services : Email and web-hosting systems
