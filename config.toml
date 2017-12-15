@@ -1,3 +1,6 @@
-baseURL = "http://magiconair.netlify.com/"
+baseURL      = "https://magiconair.netlify.com/"
 languageCode = "en-us"
-title = "magiconair - Frank Schröder"
+title        = "magiconair - Frank Schröder"
+
+[params]
+  fabioURL = "https://fabio.netlify.com/"

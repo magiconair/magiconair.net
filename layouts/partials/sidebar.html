@@ -3,6 +3,7 @@
 
   <ul class="nav sidenav dropable sticky">
     <li><a{{if eq $currentPage.URL "/"}} class="active"{{end}} href="/">Overview</a></li>
+    <li><a href="{{$.Site.Params.fabioURL}}">Fabio</a></li>
     {{range .Site.Sections}}
     {{$section := .}}
     <li>
