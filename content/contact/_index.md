@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-weight: 2000
+weight: 900
 ---
 
 Frank Schröder
