@@ -37,3 +37,8 @@ h2 a:after {
     /* round the edges to a circle with border radius 1/2 container size */
     border-radius: 50%;
 }
+
+table td,th {
+	border: 1px solid #ddd;
+	padding: 5px 20px;
+}
