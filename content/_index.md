@@ -15,7 +15,7 @@ systems.
 
 I have written some open-source tools which I am still maintaining:
 
- * https://github.com/fabiolb/fabio : Consul aware load balancer HTTP/TCP reverse proxy ([Website](https://fabio.netlify.com/))
+ * https://github.com/fabiolb/fabio : Consul aware load balancer HTTP/TCP reverse proxy ([Website](https://fabiolb.net/))
  * https://github.com/magiconair/properties : properties library for Go
  * https://github.com/magiconair/vendorfmt : tool for making `vendor.json` files more merge friendly
 
