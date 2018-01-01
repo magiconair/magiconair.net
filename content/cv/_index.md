@@ -126,6 +126,10 @@ including design, setup and maintenance of SharpMind’s 24x7, scalable and
 highly available hosting infrastructure with 50 physical and 150 virtual
 servers (containers).
 
+Design, implementation, deployment and maintenance of SharpMind’s distributed,
+scalable, highly-available server based applications based on Java, Spring,
+Hibernate, RESTEasy, MySQL on Linux.
+
 * custom linux installer for fast bare-metal provisioning
 * offboard navigation server for mobile phones
 * customer and product registration system
@@ -140,10 +144,7 @@ servers (containers).
 * various tools for automation, build and packaging
 * 24x7 on-call support for hosted applications
 
-Strong interaction with customers and 3rd party suppliers.  Design,
-implementation, deployment and maintenance of SharpMind’s distributed,
-scalable, highly-available server based applications based on Java, Spring,
-Hibernate, RESTEasy, MySQL on Linux such as
+Strong interaction with customers and 3rd party suppliers.
 
 ##### Senior Software Engineer, AirFlash/Webraska, Frankfurt, Germany, 2000-2004
 
