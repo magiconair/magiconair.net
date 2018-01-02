@@ -38,11 +38,11 @@ twice and it can be resurrected but needs some work.
 
 I have written some **open-source** tools of which my load-balancer
 [fabio](https://github.com/fabiolb/fabio) is the most notable. It solved lots
-of problems for us at eBay, has a significant set of users and I am still
-actively maintaining it. I have also written a [Go library for Java properties
+of problems for us at eBay, has a significant set of users and I am actively
+maintaining it. I have also written a [Go library for Java properties
 files](https://github.com/magiconair/properties) and some smaller tools.
 Additionally, I have worked at HashiCorp as a maintainer for
-[Consul](https://github.com/hashicorp/consul).
+[Consul](https://consul.io/).
 
 For the most part I have worked in the telecommunications and e-commerce sector
 but would like to apply my experience in other industries like **Energy, IoT,
@@ -51,7 +51,7 @@ Amsterdam area or somewhere in southern Germany**.
 
 Below you can find more details over my past work experience and you can find
 additional details and recommendations from others on my
-[LinkedIn](https://linkedin.com/in/magiconair) profile.
+<a href="https://www.linkedin.com/in/magiconair/"><i class="fa fa-linkedin-square" aria-hidden="true"></i> LinkedIn Profile</a>.
 
 ### Experience
 
@@ -207,3 +207,4 @@ University of Saarbrücken, Germany - Masters of Computer Science, 1997
 * https://github.com/magiconair/vendorfmt - tool for making vendor.json files merge friendly, project owner
 * https://github.com/hashicorp/consul - maintainer while working at HashiCorp
 * https://github.com/hashicorp/go-discover - developer and maintainer while working at HashiCorp
+* https://www.linkedin.com/in/magiconair - LinkedIn profile
