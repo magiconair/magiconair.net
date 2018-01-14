@@ -65,15 +65,23 @@ additional details and recommendations from others on my
 
 ### Experience
 
-##### Software Engineer, Hashicorp, Amsterdam 2017
+##### 2017-2018: [Kramp Hub](http://kramphub.com/), Utrecht, NL (Freelance)
+###### Software Engineer, Go Developer
+
+_Google Cloud, Kubernetes, CI/CD, Go_
+
+* Build CI/CD workflow for Kubernetes on Google Cloud
+* Build Go reverse proxy for complex rewrite rules
+
+##### 2017: HashiCorp, Amsterdam, NL (Remote)
+###### Software Engineer, Consul Maintainer, Go Developer
 
 _Go, Consul, fabio, github, community, Open-Source_
 
-
 Consul (https://github.com/hashicorp/consul) maintainer.
 
-* Stabilized and sped up tests, builds and startup time.
-* Eliminated race conditions, refactored configuration system and general bug fixing with community support
+* Stabilized and sped up tests (4m to 40sec), builds and startup time.
+* Removed race conditions, refactored config system, bug fixing, community support
 * Developed github.com/hashicorp/go-discover for cloud auto-discovery
 * First commit on day 2, #3 committer after six months
 
@@ -82,7 +90,8 @@ Worked on https://github.com/fabiolb/fabio as project owner and maintainer. fabi
 Worked remote from Amsterdam with the rest of the team on US west coast.
 
 
-##### Architect, Team Lead, eBay, Amsterdam 2012-2017
+##### 2012-2017: eBay/Marktplaats, Amsterdam, NL
+###### Architect, Team Lead, Manager, Go Developer
 
 _DevOps, Full-Stack, Distributed Systems, Scaling, Databases, Go, Java, Python, MySQL, Linux, Kafka, Riak, Redis, Consul, Nomad, fabio, Team Lead, Architect, Hiring, Line Management, Open-Source_
 
@@ -100,7 +109,8 @@ in Go (https://github.com/magiconair/properties).
 
 Hands-on and coding the entire time.
 
-##### Freelance Web Application Developer, Enaikoon GmbH, Berlin, 2010-2011
+##### 2010-2011: Enaikoon GmbH, Berlin, DE (Remote, Freelance)
+###### Web Application and Geo Location Developer
 
 _Geo Tracking, Java, JavaScript, PHP, GPS_
 
@@ -112,13 +122,15 @@ JavaScript, backend in Java and PHP, messages with JMS and custom AJAX push
 events, clustering with Hazelcast.
 
 
-##### Consultant, Creolink, Yaoundé, Cameroon, 2010-2011
+##### 2010-2011: Creolink, Yaoundé, Cameroon (Freelance)
+###### Virtualization Consultant, Software Developer
 
 _VMware ESXi, ghettoUI_
 
 Planning and installation of a virtualization solution based on VMware ESXi 4.x to reduce maintenance and operations cost.
 
-##### Consultant, Ministry of Environmental Protection/CIDE, Yaoundé, Cameroon, 2010
+##### 2010: Ministry of Environmental Protection/CIDE, Yaoundé, Cameroon
+###### Linux Consultant, Trainer
 
 _Linux, KVM, Training_
 
@@ -126,7 +138,8 @@ Setup of a web server and training environment on Linux with KVM virtualization.
 
 Development of hands-on training courses for the administrators.
 
-##### Partner, SharpMind, Frankfurt, Germany, 2004-2010
+##### 2004-2010: SharpMind, Frankfurt, Germany
+###### Partner, Architect, Software Developer, Ops and Support
 
 _DevOps, Distributed Systems, Scaling, Linux Vserver, Datacenter, Provisioning, 
 Java, MySQL, Postgres, Scaling, GSM, GPS_
@@ -156,7 +169,8 @@ Hibernate, RESTEasy, MySQL on Linux.
 
 Strong interaction with customers and 3rd party suppliers.
 
-##### Senior Software Engineer, AirFlash/Webraska, Frankfurt, Germany, 2000-2004
+##### 2000-2004: AirFlash/Webraska, Frankfurt, Germany
+###### Senior Software Engineer
 
 _DevOps, Distributed Systems, Scaling, Networking, Linux, Java, SQL, Bash, Informix_
 
@@ -171,7 +185,8 @@ Management of small teams of developers. Work with teams in the US, France and
 Australia.
 
 
-##### Senior Consultant/Architect, CSC Ploenzke AG, Frankfurt, Germany, Jan-Apr 2000
+##### 2000: CSC Ploenzke AG, Frankfurt, Germany
+###### Senior Consultant, Architect
 
 Architect for a news portal project for a bank.
 
@@ -179,7 +194,8 @@ Review of the existing portal architecture. Design and implementation of data
 input drivers for managing content feeds. Management of a team of developers
 for implementing the data import modules
 
-##### Senior Consultant/Architect, Netscape, Munich, Germany, 1997-2000
+##### 1997-2000: Netscape, Munich, Germany
+###### 1997-2000: Senior Consultant, Architect, Software Developer
 
 _Distributed Systems, Scaling, Networking, Solaris, Java, JavaScript_
 
@@ -190,7 +206,8 @@ Developed user interface frameworks for LDAP servers in JavaScript.
 
 Trained 3rd party support staff of our customers.
 
-##### Freelance Software Engineer, Germany, 1989-1997
+##### 1989-1997: Multiple Locations, Germany, 1989-1997
+###### Freelance Software Engineer
 
 _C, C++, Windows, Delphi, HyperCard_
 
