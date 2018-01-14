@@ -53,6 +53,16 @@ Below you can find more details over my past work experience and you can find
 additional details and recommendations from others on my
 <a href="https://www.linkedin.com/in/magiconair/"><i class="fa fa-linkedin-square" aria-hidden="true"></i> LinkedIn Profile</a>.
 
+### Key Skills 2018
+
+ * Design, build and operation of large scale distributed systems
+ * 6 years of building high-load production systems in Go
+ * Open-source developer and contributor
+ * Full Stack Engineer with focus on backend
+ * Presentations in front of large, technical audiences
+ * Team management of up to 10 people
+ * Fluent in English, German and Dutch
+
 ### Experience
 
 ##### Software Engineer, Hashicorp, Amsterdam 2017
