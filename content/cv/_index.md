@@ -4,63 +4,33 @@ title: CV
 
 ##### Frank Schröder, Amsterdam, NL
 
-For the last 20+ years I have been building and working on **distributed
-systems** and all aspects related to them including networking, routing,
-scaling, tuning, architecture, deployment, tooling, and more. I have also
-worked on web and iPhone apps but my passion is with the backend. Nowadays you
-would call that a **full-stack engineer** or someone doing **DevOps**.
+<a href="https://twitter.com/magiconair"><i class="fa fa-twitter" aria-hidden="true"></i> @magiconair</a>
+<a href="https://www.linkedin.com/in/magiconair/"><i class="fa fa-linkedin-square" aria-hidden="true"></i> LinkedIn Profile</a>
 
-I love working on complex technical problems with lots of dimensions and detail
-and optimize all aspects of it.
+Full-stack distributed systems engineer with 25+ years experience who likes building and running high-scale production systems in [Go](https://golang.org/).
 
-I can write software in **Go, Java, Perl, Python, PHP and JavaScript** and have
-been doing this for **25 years+**. My C, C++ and Objective-C are a bit rusty
-and I have played with C# but not much. **Since 2011, Go is my preferred**
-go-to language since I find its minimal footprint liberating.
+Over the years I have worked at Netscape, eBay and HashiCorp dealing with
+all aspects of the system engineering lifecycle. I have written a couple of 
+open-source tools and contributed to several projects. At HashiCorp I have been
+a [Consul](https://consul.io/) maintainer.
 
-I have managed teams of experienced software engineers and **performed lots of
-interviews** to find them. I have **line management** experience for a medium
-sized team (10+ people) and know how to **interact with stakeholders** on product,
-deadlines, vision and constraints on a multi-million Euro service with high
-visibility and low tolerance for failures. It is gratifying building a team
-that works well together and the work at eBay has taught me how to do that.
-
-I have given a number of **presentations** in small and larger venues usually
-in front of technical audiences.
-
-I am used to work with people from multiple countries and in different
-timezones. During my time at HashiCorp I have **worked remote** from Amsterdam
-with a team on the US west coast which worked well.
-
-I am a native **German** speaker but **English** has become second nature. My
-**Dutch** is fluent but can still be improved. I have now learned **French**
-twice and it can be resurrected but needs some work.
-
-I have written some **open-source** tools of which my load-balancer
-[fabio](https://github.com/fabiolb/fabio) is the most notable. It solved lots
-of problems for us at eBay, has a significant set of users and I am actively
-maintaining it. I have also written a [Go library for Java properties
-files](https://github.com/magiconair/properties) and some smaller tools.
-Additionally, I have worked at HashiCorp as a maintainer for
-[Consul](https://consul.io/).
+I have lived in Germany, Cameroon and The Netherlands and have experience working remote and on-site both as employee and external consultant.
 
 For the most part I have worked in the telecommunications and e-commerce sector
-but would like to apply my experience in other industries like **Energy, IoT,
-Automation, Robotics, Biotech or Logistics**. Preferably **remote, in the
-Amsterdam area or somewhere in southern Germany**.
+but would like to work in other industries like **Energy, IoT, Automation,
+Robotics, Biotech or Logistics**. Preferably **fully or partially remote, in the Amsterdam area or
+somewhere in southern Germany**.
 
-Below you can find more details over my past work experience and you can find
-additional details and recommendations from others on my
-<a href="https://www.linkedin.com/in/magiconair/"><i class="fa fa-linkedin-square" aria-hidden="true"></i> LinkedIn Profile</a>.
-
-### Key Skills 2018
-
- * Design, build and operation of large scale distributed systems
- * 6 years of building high-load production systems in Go
- * Open-source developer and contributor
- * Full Stack Engineer with focus on backend
+ * 25+ years software development
+ * 20+ years building and running distributed systems
+ * 6+ years writing production grade Go software
+ * Several open-source projects, e.g. [fabio](https://github.com/fabiolb/fabio) HTTP reverse proxy, [properties](https://github.com/magiconair/properties) library for Go, [vendorfmt](https://github.com/magiconair/vendorfmt) tool
+ * Built a medium sized team of senior engineers
+ * Performed 200+ interviews to find them 
+ * Line management of the team members
  * Presentations in front of large, technical audiences
- * Team management of up to 10 people
+ * Responsible for multi-million Euro project with high-visibility and low tolerance for failure
+ * Focus on deadlines and deliverables
  * Fluent in English, German and Dutch
 
 ### Experience
@@ -109,7 +79,7 @@ in Go (https://github.com/magiconair/properties).
 
 Hands-on and coding the entire time.
 
-##### 2010-2011: Enaikoon GmbH, Berlin, DE (Remote, Freelance)
+##### 2010-2011: Enaikoon GmbH, Berlin, DE (Remote from Cameroon, Freelance)
 ###### Web Application and Geo Location Developer
 
 _Geo Tracking, Java, JavaScript, PHP, GPS_
