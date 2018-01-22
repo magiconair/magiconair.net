@@ -30,7 +30,7 @@ somewhere in southern Germany**.
  * Line management of the team members
  * Presentations in front of large, technical audiences
  * Responsible for multi-million Euro project with high-visibility and low tolerance for failure
- * Focus on deadlines and deliverables
+ * Focus on deadlines, deliverables, automation and simplicity
  * Fluent in English, German and Dutch
 
 ### Experience
