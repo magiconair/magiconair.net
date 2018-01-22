@@ -40,7 +40,7 @@ somewhere in southern Germany**.
 
 _Google Cloud, Kubernetes, CI/CD, Go_
 
-* Build CI/CD workflow for Kubernetes on Google Cloud
+* Build CI/CD workflow for Kubernetes with Google Container Builder
 * Build Go reverse proxy for complex rewrite rules
 
 ##### 2017: HashiCorp, Amsterdam, NL (Remote)
