@@ -52,7 +52,7 @@ Consul (https://github.com/hashicorp/consul) maintainer.
 
 * Stabilized and sped up tests (4m to 40sec), builds and startup time.
 * Removed race conditions, refactored config system, bug fixing, community support
-* Developed github.com/hashicorp/go-discover for cloud auto-discovery
+* Developed https://github.com/hashicorp/go-discover for cloud auto-discovery
 * First commit on day 2, #3 committer after six months
 
 Worked on https://github.com/fabiolb/fabio as project owner and maintainer. fabio is my consul aware cloud load balancer.
