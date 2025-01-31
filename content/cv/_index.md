@@ -4,13 +4,13 @@ title: CV
 
 ##### Frank Schröder, Amsterdam, NL
 
-<a href="https://twitter.com/magiconair"><i class="fa fa-twitter" aria-hidden="true"></i> @magiconair</a>
-<a href="https://www.linkedin.com/in/magiconair/"><i class="fa fa-linkedin-square" aria-hidden="true"></i> LinkedIn Profile</a>
+{{<icon twitter>}} [@magiconair](https://twitter.com/magiconair)
+{{<icon linkedin-square>}} [LinkedIn Profile](https://linkedin.com/magiconair)
 
 Full-stack distributed systems engineer with 25+ years experience who likes building and running high-scale production systems in [Go](https://golang.org/).
 
 Over the years I have worked at Netscape, eBay and HashiCorp dealing with
-all aspects of the system engineering lifecycle. I have written a couple of 
+all aspects of the system engineering lifecycle. I have written a couple of
 open-source tools and contributed to several projects. At HashiCorp I have been
 a [Consul](https://consul.io/) maintainer.
 
@@ -26,7 +26,7 @@ somewhere in southern Germany**.
  * 6+ years writing production grade Go software
  * Several open-source projects, e.g. [fabio](https://github.com/fabiolb/fabio) HTTP reverse proxy, [properties](https://github.com/magiconair/properties) library for Go, [vendorfmt](https://github.com/magiconair/vendorfmt) tool
  * Built a medium sized team of senior engineers
- * Performed 200+ interviews to find them 
+ * Performed 200+ interviews to find them
  * Line management of the team members
  * Presentations in front of large, technical audiences
  * Responsible for multi-million Euro project with high-visibility and low tolerance for failure
@@ -104,14 +104,14 @@ Planning and installation of a virtualization solution based on VMware ESXi 4.x 
 
 _Linux, KVM, Training_
 
-Setup of a web server and training environment on Linux with KVM virtualization. 
+Setup of a web server and training environment on Linux with KVM virtualization.
 
 Development of hands-on training courses for the administrators.
 
 ##### 2004-2010: SharpMind, Frankfurt, Germany
 ###### Partner, Architect, Software Developer, Ops and Support
 
-_DevOps, Distributed Systems, Scaling, Linux Vserver, Datacenter, Provisioning, 
+_DevOps, Distributed Systems, Scaling, Linux Vserver, Datacenter, Provisioning,
 Java, MySQL, Postgres, Scaling, GSM, GPS_
 
 Responsible for all aspects of the software development and product lifecycle
