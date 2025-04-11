@@ -2,27 +2,28 @@
 title: "Overview"
 ---
 
-My name is Frank Schröder and I am a distributed systems engineer.
+# About Me
 
-During my professional carreer I have mostly worked on building large scale
-systems.
+My name is **Frank Schröder**, and I am a distributed systems engineer with extensive experience in designing and building large-scale systems across various industries.
 
- * Netscape Professional Services : Email and web-hosting systems
- * Webraska/AirFlash : Location based services
- * SharpMind : Datacenter setup, provisioning, containers and micro-services
- * eBay: micro services, team management, hiring, Go, [fabio](https://github.com/fabiolb/fabio)
- * HashiCorp: [Consul](https://consul.io/) maintainer
- * Northvolt: Built a Data Collection Platform for industrial applications (Battery Manufacturing)
+## Professional Highlights
 
-I have written some open-source tools which I am still maintaining:
+- **Northvolt**: Developed a Data Collection Platform for industrial applications in battery manufacturing.  
+- **HashiCorp**: Maintained [Consul](https://consul.io/), a service discovery and configuration tool.  
+- **eBay**: Led microservices development, team management, hiring, and authored [fabio](https://github.com/fabiolb/fabio), a zero-conf HTTP/TCP reverse proxy.  
+- **SharpMind**: Managed datacenter setup, provisioning, containers, and microservices.  
+- **Webraska/AirFlash**: Worked on location-based services.  
+- **Netscape Professional Services**: Designed and implemented email and web-hosting systems.  
 
- * [github.com/gopcua/opcuo](https://github.com/gopcua/opcua) : Pure Go OPC/UA client and server library for industrial applications
- * [github.com/magiconair/properties](https://github.com/magiconair/properties) : properties library for Go
+## Open-Source Contributions
 
-I am the original author of this project but have transferred it to another maintainer
+I am the author and active maintainer of several open-source tools:  
+- [gopcua](https://github.com/gopcua/opcua): A pure Go OPC/UA client and server library for industrial applications.  
+- [properties](https://github.com/magiconair/properties): A properties library for Go.  
 
- * [github.com/fabiolb/fabio](https://github.com/fabiolb/fabio) : Consul aware load balancer HTTP/TCP reverse proxy ([Website](https://fabiolb.net/))
+I am also the original author of:  
+- [fabio](https://github.com/fabiolb/fabio): A Consul-aware load balancer and HTTP/TCP reverse proxy ([Website](https://fabiolb.net/)), now maintained by another contributor.  
 
-Check the [contact](/contact/) page on how to get in touch with me.
+## Contact
 
-Frank
+Visit the [contact page](/contact/) to get in touch with me.
