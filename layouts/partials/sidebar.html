@@ -3,7 +3,6 @@
 
   <ul class="nav sidenav dropable sticky">
     <li><a{{if eq $currentPage.Permalink "/"}} class="active"{{end}} href="/">Overview</a></li>
-    <li><a href="{{$.Site.Params.fabioURL}}">Fabio</a></li>
     {{range .Site.Sections}}
     {{$section := .}}
     <li>
@@ -17,6 +16,10 @@
       {{end}}
     </li>
     {{end}}
+    <hr/>
+    <li><a href="{{$.Site.Params.gopcuaURL}}">gopcua</a></li>
+    <li><a href="{{$.Site.Params.propertiesURL}}">properties</a></li>
+    <li><a href="{{$.Site.Params.fabioURL}}">Fabio</a></li>
   </ul>
 
 </aside>

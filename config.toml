@@ -4,4 +4,6 @@ title        = "magiconair - Frank Schröder"
 
 [params]
   fabioURL        = "https://fabiolb.net/"
+  propertiesURL   = "https://github.com/magiconair/properties"
+  gopcuaURL       = "https://github.com/gopcua/opcua/"
   googleAnalytics = "UA-2812942-2"
