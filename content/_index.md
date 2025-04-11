@@ -2,8 +2,6 @@
 title: "Overview"
 ---
 
-# About Me
-
 My name is **Frank Schröder**, and I am a distributed systems engineer with extensive experience in designing and building large-scale systems across various industries.
 
 ## Professional Highlights

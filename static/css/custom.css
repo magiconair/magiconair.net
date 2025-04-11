@@ -15,12 +15,26 @@ body, h1,h2,h3,h4,h5,h6 {
 	font-size: 14px;
 }
 
-h5 {
-	margin-top: 2em;
+h1 {
+    font-size: 36px;
+    line-height: 22px;
+    margin-bottom: 16px;
+    margin-top: 36px;
+}
+
+h2 {
+    font-size: 24px;
+    line-height: 22px;
+    margin-bottom: 16px;
+    margin-top: 36px;
 }
 
 h2 a:after {
 	background-color: transparent;
+}
+
+h5 {
+	margin-top: 2em;
 }
 
 .banner.auto-size {
