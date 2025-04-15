@@ -7,13 +7,15 @@ title: CV
 {{<icon twitter>}} [@magiconair](https://twitter.com/magiconair)
 {{<icon linkedin-square>}} [LinkedIn Profile](https://linkedin.com/magiconair)
 
+**PDF Download: [CV Frank Schroeder 2025](/cv/cv-frank-schroeder-2025-v2.pdf)**
+
 # Profile
 
 Senior Software/Network Engineer and Team Builder with 30+ years of experience in distributed systems, scalable architectures, industrial manufacturing, and MES/SCADA systems. Proven track record in designing elegant, low-maintenance solutions, building high-performing teams, and optimizing complex systems. Author and maintainer of several open-source Go libraries, including fabio, gopcua, and properties. Full-time Go developer since 2011, with expertise in troubleshooting, automation, and scalable backend design.
 
 # Achievements
 
-## PRINCIPAL Software engineer/ARCHITECT, Northvolt, Stockholm, 2018-2025
+## PRINCIPAL Software engineer/Architect, Northvolt, Stockholm, 2018-2025
 
 * Built Northvolt's first connected battery gateway system, deployed on hundreds of batteries, including hardware selection, software development, and 24x7 troubleshooting.
 * Architected and implemented industrial data acquisition systems for thousands of machines, running on factory-floor k3s clusters.
@@ -25,7 +27,8 @@ Senior Software/Network Engineer and Team Builder with 30+ years of experience i
 ## Software engineer, Hashicorp, Amsterdam 2017
 
 * Maintained Consul, stabilizing tests, builds, and startup times while eliminating race conditions and refactoring configurations.
-* Developed go-discover, a cloud auto-discovery library, and became the #3 committer within six months.Continued development and maintenance of fabio, a consul-aware cloud load balancer.
+* Developed **go-discover**, a cloud auto-discovery library, and became the #3 committer within six months.
+* Continued development and maintenance of fabio, a consul-aware cloud load balancer.
 
 ## Architect, Team lead, ebay, Amsterdam 2012-2017
 
