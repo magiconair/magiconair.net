@@ -269,6 +269,87 @@ a.company:hover {
     min-width: 80px;
 }
 
+/* CV Navigation */
+.cv-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border);
+}
+
+/* CV Job Entries */
+.cv-job {
+    margin-bottom: 1.5rem;
+    padding-left: 1rem;
+    border-left: 2px solid var(--border);
+}
+
+.cv-job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 0.25rem;
+}
+
+.cv-company {
+    font-weight: 500;
+    color: var(--text-primary);
+}
+
+.cv-period {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+}
+
+.cv-employer {
+    color: var(--text-secondary);
+    font-size: 0.875rem;
+    margin-bottom: 0.5rem;
+}
+
+.cv-job ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.cv-job li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 0.8125rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+}
+
+.cv-job li::before {
+    content: ">";
+    position: absolute;
+    left: 0;
+    color: var(--text-muted);
+}
+
+/* Reference List */
+.reference-list {
+    list-style: none;
+    padding: 0;
+}
+
+.reference-list li {
+    margin-bottom: 0.5rem;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.reference-list li::before {
+    content: ">";
+    position: absolute;
+    left: 0;
+    color: var(--text-muted);
+}
+
 /* Footer */
 footer {
     margin-top: 3rem;
@@ -339,6 +420,10 @@ footer p {
 
     .contact-list .label {
         min-width: auto;
+    }
+
+    .cv-job-header {
+        flex-direction: column;
     }
 }
 
