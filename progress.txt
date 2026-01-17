@@ -1,0 +1,111 @@
+================================================================================
+PROGRESS LOG: magiconair.net Homepage Redesign
+================================================================================
+
+Started: 2026-01-17
+Branch: redesign-static-homepage
+
+================================================================================
+RESEARCH PHASE
+================================================================================
+
+[2026-01-17] Analyzed current site structure
+- Current site uses Hugo static site generator with "theDocs" documentation theme
+- Bootstrap-based responsive layout with system sans-serif fonts
+- Content sections: homepage, blog, contact, CV
+- Existing assets: favicons, logo SVGs, fonts (FontAwesome, Glyphicons)
+
+[2026-01-17] Analyzed GitHub profile (@magiconair)
+- 262 followers
+- Currently at GetStream (Nijmegen, NL)
+- Key projects:
+  * fabio: 7.3k stars - Consul-aware load balancer
+  * opcua: 999 stars - Native Go OPC-UA library
+  * properties: 337 stars - Java properties scanner for Go
+  * twincat: 12 stars - Go library for TwinCAT V3
+- Focus areas: distributed systems, industrial IoT, infrastructure tooling
+
+[2026-01-17] Analyzed CV (PDF)
+- 30+ years experience in distributed systems
+- Full-time Go developer since 2011
+- Career highlights:
+  * Northvolt (2018-2025): Principal Engineer, Edge Computing, MES systems
+  * HashiCorp (2017): Consul maintainer, #3 committer
+  * eBay (2012-2017): Architect, Team lead, created fabio
+  * Earlier: Netscape, SharpMind, Webraska, freelance work since 1989
+- Education: Masters in Computer Science, University of Saarbrücken (1997)
+- Languages: German (native), English, Dutch (fluent), Swedish, French
+
+[2026-01-17] Twitter/X analysis
+- Unable to fetch directly (requires JavaScript)
+- Handle: @magiconair
+
+[2026-01-17] LinkedIn analysis
+- URL: linkedin.com/in/magiconair
+- Unable to fetch directly (rate limited)
+
+================================================================================
+DESIGN DECISIONS
+================================================================================
+
+[2026-01-17] Chose terminal-inspired dark theme
+- Reasoning: Reflects developer/engineer identity
+- Monospaced typography conveys technical expertise
+- Dark background reduces eye strain, popular among developers
+
+[2026-01-17] Decided on single-page static HTML
+- No build system required (unlike current Hugo setup)
+- Faster to load, easier to maintain
+- Pure HTML/CSS, no JavaScript dependencies
+
+[2026-01-17] Color palette selected
+- Dark background (#0d1117) - GitHub dark theme inspired
+- Light text (#c9d1d9) for readability
+- Blue accent (#58a6ff) for links
+- Subtle borders (#30363d) for structure
+
+================================================================================
+IMPLEMENTATION PROGRESS
+================================================================================
+
+[2026-01-17] Created branch: redesign-static-homepage
+[2026-01-17] Created PRD.md with full design specification
+[2026-01-17] Copied CV PDF to static/cv/
+
+[2026-01-17] Created static site structure
+- new-site/index.html (8.5 KB)
+- new-site/css/style.css (5.4 KB)
+- new-site/cv/cv-frank-schroeder-2025-v2.pdf (67.8 KB)
+- new-site/favicon.png (1.9 KB)
+
+[2026-01-17] Implementation details
+- Used JetBrains Mono as primary monospaced font (Google Fonts)
+- Dark theme inspired by GitHub dark mode
+- Responsive design with mobile breakpoint at 640px
+- Sections: About, Projects (with stars), Experience, Skills, Education, Contact
+- Clean semantic HTML5 structure
+- CSS custom properties for easy theming
+- No JavaScript required for core functionality
+
+COMPLETED:
+- [x] Create index.html with new design
+- [x] Create CSS stylesheet
+- [x] Copy CV PDF and favicon
+- [x] Responsive layout implemented
+
+TODO:
+- [ ] User review and feedback
+- [ ] Browser testing
+- [ ] Deploy to production
+
+================================================================================
+LEARNINGS & NOTES
+================================================================================
+
+1. Hugo site structure is well-organized but complex for a simple personal site
+2. Current theme (theDocs) is documentation-focused, not ideal for portfolio
+3. GitHub star counts provide good social proof for projects
+4. CV PDF already exists in repo - reuse it
+5. Contact page has multiple contact methods - consolidate on homepage
+
+================================================================================
