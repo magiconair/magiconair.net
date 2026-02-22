@@ -429,6 +429,11 @@ footer p {
 
 /* Print Styles */
 @media print {
+    @page {
+        margin: 2.5rem;
+        background: var(--bg-primary);
+    }
+
     body {
         font-size: 11pt;
         line-height: 1.4;
