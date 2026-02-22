@@ -427,6 +427,65 @@ footer p {
     }
 }
 
+/* Print Styles */
+@media print {
+    body {
+        font-size: 11pt;
+        line-height: 1.4;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+
+    @page {
+        margin: 2.5rem;
+        background: var(--bg-primary);
+    }
+
+    .container {
+        max-width: none;
+        padding: 0;
+    }
+
+    header {
+        margin-bottom: 1.5rem;
+        padding-bottom: 1rem;
+    }
+
+    .avatar {
+        max-height: 90px;
+    }
+
+    h2 {
+        font-size: 13pt;
+        margin-bottom: 0.5rem;
+        padding-bottom: 0.25rem;
+    }
+
+    section {
+        margin-bottom: 1.5rem;
+    }
+
+    .cv-nav {
+        display: none;
+    }
+
+    .cv-job {
+        margin-bottom: 1rem;
+        break-inside: avoid;
+        border-left-color: var(--bg-primary);
+    }
+
+    .cv-job li {
+        font-size: 10pt;
+        margin-bottom: 0.2rem;
+        line-height: 1.4;
+    }
+
+    footer {
+        display: none;
+    }
+}
+
 /* Selection */
 ::selection {
     background-color: var(--accent);
