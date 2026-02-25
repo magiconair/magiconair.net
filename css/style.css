@@ -269,6 +269,26 @@ a.company:hover {
     min-width: 80px;
 }
 
+/* Top Navigation */
+.top-nav {
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border);
+}
+
+.top-nav a {
+    color: var(--text-muted);
+    font-size: 0.875rem;
+    transition: color 0.15s ease;
+}
+
+.top-nav a:hover {
+    color: var(--accent);
+    text-decoration: none;
+}
+
 /* CV Navigation */
 .cv-nav {
     display: flex;
@@ -350,6 +370,59 @@ a.company:hover {
     color: var(--text-muted);
 }
 
+/* Blog */
+.blog-list {
+    padding: 0;
+}
+
+.blog-entry {
+    margin-bottom: 1.5rem;
+    padding-left: 1rem;
+    border-left: 2px solid var(--border);
+}
+
+.blog-entry-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 0.25rem;
+}
+
+.blog-entry-header a {
+    font-weight: 500;
+    color: var(--text-primary);
+}
+
+.blog-entry-header a:hover {
+    color: var(--accent);
+}
+
+.blog-entry p {
+    color: var(--text-secondary);
+    font-size: 0.875rem;
+    margin-bottom: 0;
+}
+
+.blog-post p {
+    margin-bottom: 1.25rem;
+}
+
+.blog-date {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-bottom: 1.5rem;
+}
+
+.blog-discuss {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    font-size: 0.875rem;
+    color: var(--text-muted);
+}
+
 /* Footer */
 footer {
     margin-top: 3rem;
@@ -423,6 +496,10 @@ footer p {
     }
 
     .cv-job-header {
+        flex-direction: column;
+    }
+
+    .blog-entry-header {
         flex-direction: column;
     }
 }
