@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Building Tools in the Age of AI - On building a deployment tool with AI, delivering fast, and earning trust through reliability">
+    <meta name="author" content="Frank Schröder">
+    <meta name="fediverse:creator" content="@magiconair@mastodon.social">
+    <title>Building Tools in the Age of AI | Frank Schröder</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="icon" type="image/png" href="../favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-D1HDX6RVQW"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-D1HDX6RVQW');
+    </script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="../avatar.jpg" alt="Frank Schröder" class="avatar">
+            <div class="identity">
+                <h1>Frank Schröder</h1>
+                <p class="handle">@magiconair</p>
+                <p class="title">Distributed Systems Engineer | Go Developer</p>
+                <p class="location">Nijmegen, NL</p>
+            </div>
+        </header>
+
+        <nav class="cv-nav">
+            <a href="./">&larr; Blog</a>
+        </nav>
+
+        <main>
+            <article class="blog-post">
+                <h2><a href="#post">#</a> Building Tools in the Age of AI</h2>
+                <p class="blog-date">2026-03-19</p>
+
+                <p>
+                    Over the last month I have been working on a deployment tool.
+                    Something that copies files from here to there, creates files and
+                    symlinks, and restarts services. It is a replacement for a collection
+                    of tools which are slow and show their age. However, they work and our
+                    developers have come to trust them. It is their tool to release their
+                    work to the public.
+                </p>
+
+                <p>
+                    Infrastructure has the habit of being complex. Nothing is ever clean
+                    and by the book. There are always exceptions. Someone solved a problem
+                    two years ago, found a clever solution, forgot about an edge case, and
+                    then another feature solves it in a slightly different way. It is
+                    complex.
+                </p>
+
+                <p>
+                    Building tools is easy. We do it every day. Your shell script is a
+                    tool, and so is your colleague's python script. Building good tools is
+                    hard, especially since you need user interfaces, input verification,
+                    log files, and reliability. Also, tools need to be flexible and you do
+                    not want to be the only person maintaining them.
+                </p>
+
+                <p>
+                    In the last 30 days, I have released 43 versions of my tool during a 5
+                    day workweek. No night and evening sessions. It has about 15,000 lines
+                    of Go code most of which I did not read. It has built-in service
+                    registries, parallel processing, logging, web ui, fuzzy finders, and a
+                    lot more &mdash; and it is fast! Very fast. About 5-10x faster. Tasks that
+                    took several hours are now done in minutes. Developers love it.
+                </p>
+
+                <p>
+                    But mostly they use it because it is fast <em>and</em> reliable. The
+                    speed would not matter if it would not work.
+                </p>
+
+                <p>
+                    This is where AI comes in. First, by analyzing how the original tools
+                    work and what hard-coded workarounds they perform. And then by building
+                    a tool that does it better and faster.
+                </p>
+
+                <p>
+                    Being able to release 1-4 times per day with fix after fix after fix
+                    is what allowed me to build the trust that whatever the engineers find
+                    will get fixed immediately.
+                </p>
+
+                <p>
+                    I did not point AI at an existing tool and say "Rewrite in Go".
+                    Instead, I am using AI to understand the existing codebase, think about
+                    which features to build next, understand the use cases and make the
+                    tool incrementally better. Significantly better with every release.
+                    This is not vibe coding or one-shotting a tool but deliberate and
+                    focused improvement delivered quickly.
+                </p>
+
+                <p>
+                    After about 20 releases I performed some code hygiene, looked at the
+                    package structure, told AI to move things around, apply consistent
+                    naming, use latest Go features and SDK functions, and added some
+                    structure. Other than that I have left it alone.
+                </p>
+
+                <p>
+                    AI allows me to add features that I would have never considered because
+                    they were just too much work for too little gain. I can hear my old
+                    colleague saying "Stop goldplating it!" But now that cost is no longer
+                    an issue, I can spend 2h on building my idea and if it is not useful we
+                    just throw it away.
+                </p>
+
+                <p>
+                    The best thing happened a couple of days ago when some of my colleagues
+                    started to make changes themselves. The tool has become an inspiration
+                    and they add new features to make their lives even better.
+                </p>
+
+                <p>
+                    That is the most I can hope for: Having built something useful and
+                    being no longer the only one responsible for it.
+                </p>
+
+                <p>
+                    Thank you Claude!
+                </p>
+
+                <p class="blog-discuss">
+                    Discuss on <a href="https://www.linkedin.com/posts/magiconair_building-tools-in-the-age-of-ai-over-the-activity-7440470979136405504-rvav">LinkedIn</a>
+                    or <a href="https://mastodon.social/@magiconair/116257321989170108">Mastodon</a>.
+                </p>
+            </article>
+        </main>
+
+        <footer>
+            <p>&copy; 2026 Frank Schröder</p>
+        </footer>
+    </div>
+</body>
+</html>
