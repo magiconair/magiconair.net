@@ -23,7 +23,7 @@
 <body>
     <div class="container">
         <header>
-            <img src="avatar.jpg" alt="Frank Schröder" class="avatar">
+            <img src="photo.jpg" alt="Frank Schröder" class="avatar">
             <div class="identity">
                 <h1>Frank Schröder</h1>
                 <p class="handle">Curriculum Vitae</p>
@@ -66,11 +66,35 @@
                     <p class="cv-employer"><a href="https://getstream.io">Stream</a>, Amsterdam &amp; Remote</p>
                     <ul>
                         <li>Built bare-metal CI system — 5x faster, 3x cheaper, hosted in Europe.</li>
+                        <li>Operating bare-metal CI system for 40 devs by myself.</li>
                         <li>Identified bottlenecks in existing Go unit testing approach and built a new test harness for 10,000 tests.</li>
                         <li>Identified bottlenecks in existing deployment flow, designed new solution and migration path.</li>
                         <li>Built new faster deployment tool for the existing codebase.</li>
-                        <li>Enhancing <a href="https://github.com/bradfitz/go-tool-cache">go-tool-cache</a> with distributed caching, consistent hashing, and no single point of failure.</li>
+                        <li>Built a distributed, replicated Go build cache on a self-hosted k3s cluster. Patched Go to get better metrics.</li>
+                        <li>Refactoring 1.5M LoC mono repo for faster tests and partial releases.</li>
                         <li>Investigated Nomad for running workloads.</li>
+                    </ul>
+                </div>
+
+                <div class="cv-job">
+                    <div class="cv-job-header">
+                        <span class="cv-company">System Architecture Consulting</span>
+                        <span class="cv-period">2026 - present</span>
+                    </div>
+                    <p class="cv-employer"><a href="https://source.ag">Source.AG</a>, Amsterdam</p>
+                    <ul>
+                        <li>Focused system architecture review, first principle thinking, AI usage once a month.</li>
+                    </ul>
+                </div>
+
+                <div class="cv-job">
+                    <div class="cv-job-header">
+                        <span class="cv-company">Volunteer Software Engineer</span>
+                        <span class="cv-period">2026 - present</span>
+                    </div>
+                    <p class="cv-employer"><a href="https://rainbowhaven.org/">Rainbow Haven</a> (NGO), Remote</p>
+                    <ul>
+                        <li>Design and build a safe-house management system for an NGO.</li>
                     </ul>
                 </div>
 
